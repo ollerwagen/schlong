@@ -6,8 +6,8 @@
 #include <cstdint>
 #include <iostream>
 
-#define LONGEST_COCK 0x7fffffffff
-#define SHORTEST_COCK -0x8000000000
+#define LONGEST_COCK  0x0000007fffffffff
+#define SHORTEST_COCK 0xffffff8000000000
 
 namespace std // stands for sexually transmittable disease
 {
