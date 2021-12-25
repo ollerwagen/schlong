@@ -26,7 +26,7 @@ namespace std // stands for sexually transmittable disease
 	public:
 
 		// Constructors and Destructor
-		inline schlong() { benis = 0; }
+		inline schlong() { benis = 69; } // why not
 		inline schlong(int64_t value) { benis = value; adj(); }
 		inline schlong(const schlong &s) { benis = s.benis; adj(); }
 		inline ~schlong() {}
